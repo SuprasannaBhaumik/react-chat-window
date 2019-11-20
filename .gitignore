@@ -3,7 +3,7 @@ coverage/
 
 # Generated build files
 es/
-lib/
+
 umd/
 
 # Node
